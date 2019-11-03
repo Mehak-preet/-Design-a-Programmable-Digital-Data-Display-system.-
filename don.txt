@@ -1,0 +1,15 @@
+Aim: Design a Programmable Digital Data Display system. 
+Appartus:lcd,arduino,breadboard.
+Procedure:
+Step1:
+take the arduino and bredaboard.
+Step2:
+join the lcd with breadboard.
+Step3:
+join all the wires with the parts of arduino.
+Step4:
+code the program then.
+Step5:
+it will print the value you want.
+Conclusion:
+it will print the value you want.
